@@ -291,10 +291,10 @@
           "options": [
             {"label": "a", "text": "Facial Attributes Coding System"},
             {"label": "b", "text": "Facial Affect Coding System"},
-            {"label": "c", "text": "Facial Affective Coding System"},
+            {"label": "c", "text": "Facial Action Coding System"},
             {"label": "d", "text": "Functional Action Coding System"}
           ],
-          "acceptedAnswer": "b"
+          "acceptedAnswer": "c"
         },
         {
           "id": 5,
