@@ -298,7 +298,7 @@
         },
         {
           "id": 5,
-          "text": "Which of the following statements is False. (A) Micro expressions last between 0.5 to 4 seconds. (B) Dynamic facial features are obtained by extracting handcrafted features from selected peak expression frames of image sequences. (C) Dynamic FER has a higher recognition rate than static FER because it provides additional temporal information.",
+          "text": "Which of the following statements is False. (A) Macro expressions last between 0.5 to 4 seconds. (B) Dynamic facial features are obtained by extracting handcrafted features from selected peak expression frames of image sequences. (C) Dynamic FER has a higher recognition rate than static FER because it provides additional temporal information.",
           "options": [
             {"label": "a", "text": "Only A"},
             {"label": "b", "text": "Only B"},
